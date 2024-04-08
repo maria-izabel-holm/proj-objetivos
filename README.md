@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
@@ -13,3 +14,4 @@
 <button class="botao">Criar projetos em Javascript</button>
 <button class="botao">Criar um portofolio</button>
 <button class="botao">Atualizar meu currículo</button>
+<h2 class="titulo-principal">Meus Objetivos do ano<span>_</span>/h2>
